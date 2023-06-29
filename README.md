@@ -68,8 +68,13 @@ commit 225466bc3e5f35baa5d07197bbc079345b77525e
 ```
 
 * Найдите коммит, в котором была создана функция `func providerSource`, её определение в коде выглядит так: `func providerSource(...)` (вместо троеточия перечислены аргументы).
+![image](https://github.com/nazarch2000/02-git-04-tools/assets/106932460/5d49420d-6037-4443-80bb-562b8bc433e6)
+
 * Найдите все коммиты, в которых была изменена функция `globalPluginDirs`.
+![image](https://github.com/nazarch2000/02-git-04-tools/assets/106932460/c07fa037-c1cb-47fd-b7bd-bbdeda2350da)
+
 * Кто автор функции `synchronizedWriters`? 
+![image](https://github.com/netology-code/sysadm-homeworks/assets/106932460/3c76b02f-06d1-47b3-8f88-15c503e6a0cc)
 
 *В качестве решения ответьте на вопросы и опишите, как были получены эти ответы.*
 
